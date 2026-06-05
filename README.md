@@ -26,6 +26,15 @@ By comparing traditional lexicon-based methods with state-of-the-art Deep Learni
 
 ---
 
+## 📋 Research Flow (Alur Penelitian)
+Below is the research methodology flowchart mapping the data collection, preprocessing, model training, evaluation, and ensembling stages of this thesis:
+
+<p align="center">
+  <img src="assets/images/research_flow.png" alt="Research Flow Chart" width="600"/>
+</p>
+
+---
+
 ## 📂 Repository Structure
 ```text
 ├── assets/
