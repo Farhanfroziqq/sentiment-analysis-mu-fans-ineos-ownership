@@ -1,6 +1,6 @@
 # Public Sentiment Analysis of Manchester United on X/Twitter
 > **Bachelor's Thesis Project (Skripsi)**  
-> **Author:** Farhan Fathurroziq (NIM: 21.61.0213)  
+> **Author:** Farhan Fathurroziq | Informatics Graduate  
 > **Institution:** Universitas AMIKOM Yogyakarta  
 
 [![Python Version](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
@@ -96,6 +96,13 @@ The project implements and compares three main classification approaches:
     - Trains a meta-classifier (**Logistic Regression**) on top of these features to generate the final prediction.
 
 ---
+
+## Key Findings
+
+- Neutral sentiment dominated the discussion around INEOS ownership.
+- RoBERTa outperformed VADER by more than 13 percentage points in F1-score.
+- Oversampling did not significantly improve model performance.
+- The stacking ensemble produced a more balanced class prediction profile.
 
 ## 📈 Evaluation Results
 Below is the performance comparison across the models evaluated on the test set:
